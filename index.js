@@ -23,6 +23,6 @@ module.exports = function(content, file, conf) {
 }
 
 module.exports.defaultOptions = {
-  parser: 'postcss',
+  parser: 'css',
   singleQuote: false
 }
